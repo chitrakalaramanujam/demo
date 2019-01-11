@@ -7,6 +7,6 @@ public class SimpleLoginApp
 	    login.load(in);
 	}
 	String username = login.getProperty("username");
-	String password = login.getProperty("password");
+	String password = login.getProperty("testtest987");
     }
 }
