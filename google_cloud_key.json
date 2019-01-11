@@ -1,6 +1,6 @@
 {
-  "private_key_id":
-  "private_key": "-----BEGIN PRIVATE KEY-- My private very long key"
+  "private_key_id": 12345
+  "private_key": "bEYu26084qjSFyclM/f2pz4gviSfoOg+mFwBH39"
   "client_email": samplevalid@email.com
   "client_id": ABCD123
   "type": "service_account"
